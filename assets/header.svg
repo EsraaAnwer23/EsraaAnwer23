@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B0F1F"/><stop offset="1" stop-color="#1E1B4B"/></linearGradient>
+<linearGradient id="name" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#A78BFA"/><stop offset="0.5" stop-color="#38BDF8"/><stop offset="1" stop-color="#F472B6"/>
+<animate attributeName="x1" values="0;-1;0" dur="8s" repeatCount="indefinite"/></linearGradient>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.04"/></pattern>
+<radialGradient id="orb1"><stop offset="0" stop-color="#7C3AED" stop-opacity="0.55"/><stop offset="1" stop-color="#7C3AED" stop-opacity="0"/></radialGradient>
+<radialGradient id="orb2"><stop offset="0" stop-color="#38BDF8" stop-opacity="0.35"/><stop offset="1" stop-color="#38BDF8" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1200" height="320" rx="18" fill="url(#bg)"/>
+<rect width="1200" height="320" rx="18" fill="url(#grid)"/>
+<circle cx="930" cy="150" r="200" fill="url(#orb1)"><animate attributeName="r" values="190;220;190" dur="6s" repeatCount="indefinite"/></circle>
+<circle cx="160" cy="300" r="180" fill="url(#orb2)"><animate attributeName="r" values="170;200;170" dur="7s" repeatCount="indefinite"/></circle>
+<text x="70" y="110" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" letter-spacing="4" fill="#A5B4FC">HELLO, I'M</text>
+<text x="66" y="180" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="72" font-weight="800" fill="url(#name)">Esraa Anwer</text>
+<text x="70" y="225" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="24" fill="#EDE9FE">Full-Stack Developer · Web Applications · AI Models</text>
+<g font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="600">
+<rect x="70" y="250" width="110" height="32" rx="16" fill="#A78BFA" fill-opacity="0.15" stroke="#A78BFA" stroke-opacity="0.6"/><text x="125" y="271" text-anchor="middle" fill="#A78BFA">Frontend</text>
+<rect x="192" y="250" width="104" height="32" rx="16" fill="#38BDF8" fill-opacity="0.15" stroke="#38BDF8" stroke-opacity="0.6"/><text x="244" y="271" text-anchor="middle" fill="#38BDF8">Backend</text>
+<rect x="308" y="250" width="120" height="32" rx="16" fill="#F472B6" fill-opacity="0.15" stroke="#F472B6" stroke-opacity="0.6"/><text x="368" y="271" text-anchor="middle" fill="#F472B6">AI · Python</text>
+</g>
+<g><animateTransform attributeName="transform" type="translate" values="0 0;0 -10;0 0" dur="4s" begin="0s" repeatCount="indefinite"/>
+<polygon points="900,78 953.692,109.0 900,140 846.308,109.0" fill="#C4B5FD"/>
+<polygon points="846.308,109.0 900,140 900,202 846.308,171.0" fill="#7C3AED"/>
+<polygon points="953.692,109.0 900,140 900,202 953.692,171.0" fill="#5B21B6"/></g>
+<g><animateTransform attributeName="transform" type="translate" values="0 0;0 -10;0 0" dur="5s" begin="0.6s" repeatCount="indefinite"/>
+<polygon points="1040,160 1074.64,180.0 1040,200 1005.36,180.0" fill="#BAE6FD"/>
+<polygon points="1005.36,180.0 1040,200 1040,240 1005.36,220.0" fill="#0284C7"/>
+<polygon points="1074.64,180.0 1040,200 1040,240 1074.64,220.0" fill="#075985"/></g>
+<g><animateTransform attributeName="transform" type="translate" values="0 0;0 -10;0 0" dur="4.5s" begin="1.2s" repeatCount="indefinite"/>
+<polygon points="800,206 829.444,223.0 800,240 770.556,223.0" fill="#FBCFE8"/>
+<polygon points="770.556,223.0 800,240 800,274 770.556,257.0" fill="#DB2777"/>
+<polygon points="829.444,223.0 800,240 800,274 829.444,257.0" fill="#9D174D"/></g>
+<g><animateTransform attributeName="transform" type="translate" values="0 0;0 -10;0 0" dur="3.8s" begin="0.3s" repeatCount="indefinite"/>
+<polygon points="1060,59 1082.516,72.0 1060,85 1037.484,72.0" fill="#DDD6FE"/>
+<polygon points="1037.484,72.0 1060,85 1060,111 1037.484,98.0" fill="#8B5CF6"/>
+<polygon points="1082.516,72.0 1060,85 1060,111 1082.516,98.0" fill="#6D28D9"/></g>
+<g font-family="Consolas, monospace" font-size="22" font-weight="700">
+<text x="760" y="95" fill="#38BDF8" opacity="0.7">&lt;/&gt;<animate attributeName="opacity" values="0.3;0.9;0.3" dur="3s" repeatCount="indefinite"/></text>
+<text x="1090" y="275" fill="#A78BFA" opacity="0.7">{ }<animate attributeName="opacity" values="0.9;0.3;0.9" dur="3.5s" repeatCount="indefinite"/></text>
+</g>
+</svg>

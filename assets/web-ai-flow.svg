@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 250" width="1200" height="250">
+<rect width="1200" height="250" rx="18" fill="#0B0F1F"/>
+<text x="600" y="42" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" letter-spacing="3" fill="#A5B4FC">FROM INTERFACE TO INTELLIGENCE</text>
+<g><animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="4s" begin="0.0s" repeatCount="indefinite"/>
+<rect x="48" y="78" width="250" height="140" rx="16" fill="#A78BFA" opacity="0.18"/>
+<rect x="40" y="70" width="250" height="140" rx="16" fill="#111633" stroke="#A78BFA" stroke-opacity="0.7" stroke-width="1.5"/>
+<rect x="60" y="90" width="44" height="44" rx="12" fill="#A78BFA" fill-opacity="0.18"/>
+<text x="82" y="119" text-anchor="middle" font-family="Consolas, monospace" font-weight="700" font-size="17" fill="#A78BFA">UI</text>
+<text x="118" y="119" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-weight="700" font-size="22" fill="#EDE9FE">Interface</text>
+<text x="60" y="165" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#A5B4FC">React · Vue · Angular</text>
+<text x="60" y="190" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#A5B4FC">Next.js · Nuxt</text></g><line x1="292" y1="140" x2="328" y2="140" stroke="#A78BFA" stroke-width="3" stroke-dasharray="6 6"><animate attributeName="stroke-dashoffset" values="12;0" dur="0.8s" repeatCount="indefinite"/></line><g><animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="4s" begin="0.5s" repeatCount="indefinite"/>
+<rect x="338" y="78" width="250" height="140" rx="16" fill="#38BDF8" opacity="0.18"/>
+<rect x="330" y="70" width="250" height="140" rx="16" fill="#111633" stroke="#38BDF8" stroke-opacity="0.7" stroke-width="1.5"/>
+<rect x="350" y="90" width="44" height="44" rx="12" fill="#38BDF8" fill-opacity="0.18"/>
+<text x="372" y="119" text-anchor="middle" font-family="Consolas, monospace" font-weight="700" font-size="17" fill="#38BDF8">{ }</text>
+<text x="408" y="119" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-weight="700" font-size="22" fill="#EDE9FE">API</text>
+<text x="350" y="165" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#A5B4FC">Node.js · NestJS</text>
+<text x="350" y="190" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#A5B4FC">RESTful APIs</text></g><line x1="582" y1="140" x2="618" y2="140" stroke="#38BDF8" stroke-width="3" stroke-dasharray="6 6"><animate attributeName="stroke-dashoffset" values="12;0" dur="0.8s" repeatCount="indefinite"/></line><g><animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="4s" begin="1.0s" repeatCount="indefinite"/>
+<rect x="628" y="78" width="250" height="140" rx="16" fill="#818CF8" opacity="0.18"/>
+<rect x="620" y="70" width="250" height="140" rx="16" fill="#111633" stroke="#818CF8" stroke-opacity="0.7" stroke-width="1.5"/>
+<rect x="640" y="90" width="44" height="44" rx="12" fill="#818CF8" fill-opacity="0.18"/>
+<text x="662" y="119" text-anchor="middle" font-family="Consolas, monospace" font-weight="700" font-size="17" fill="#818CF8">DB</text>
+<text x="698" y="119" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-weight="700" font-size="22" fill="#EDE9FE">Data</text>
+<text x="640" y="165" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#A5B4FC">MongoDB</text>
+<text x="640" y="190" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#A5B4FC">PostgreSQL</text></g><line x1="872" y1="140" x2="908" y2="140" stroke="#818CF8" stroke-width="3" stroke-dasharray="6 6"><animate attributeName="stroke-dashoffset" values="12;0" dur="0.8s" repeatCount="indefinite"/></line><g><animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="4s" begin="1.5s" repeatCount="indefinite"/>
+<rect x="918" y="78" width="250" height="140" rx="16" fill="#F472B6" opacity="0.18"/>
+<rect x="910" y="70" width="250" height="140" rx="16" fill="#111633" stroke="#F472B6" stroke-opacity="0.7" stroke-width="1.5"/>
+<rect x="930" y="90" width="44" height="44" rx="12" fill="#F472B6" fill-opacity="0.18"/>
+<text x="952" y="119" text-anchor="middle" font-family="Consolas, monospace" font-weight="700" font-size="17" fill="#F472B6">AI</text>
+<text x="988" y="119" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-weight="700" font-size="22" fill="#EDE9FE">AI Models</text>
+<text x="930" y="165" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#A5B4FC">Python</text>
+<text x="930" y="190" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#A5B4FC">OOP · Algorithms</text></g>
+</svg>

@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 560" width="1200" height="560">
+<defs><radialGradient id="o"><stop offset="0" stop-color="#7C3AED" stop-opacity="0.35"/><stop offset="1" stop-color="#7C3AED" stop-opacity="0"/></radialGradient></defs>
+<rect width="1200" height="560" rx="18" fill="#0B0F1F"/>
+<circle cx="330" cy="290" r="280" fill="url(#o)"/>
+<g><animateTransform attributeName="transform" type="translate" values="0 0;0 -2;0 0" dur="4s" begin="1.2000000000000002s" repeatCount="indefinite"/>
+<polygon points="100,454 330,520 330,546 100,480" fill="#7C3AED"/>
+<polygon points="330,520 560,454 560,480 330,546" fill="#5B21B6"/>
+<polygon points="330,388 560,454 330,520 100,454" fill="#DDD6FE" fill-opacity="1"/>
+<polygon points="330,402 532,454 330,506 128,454" fill="none" stroke="#ffffff" stroke-opacity="0.35"/></g>
+<line x1="570" y1="462" x2="680" y2="462" stroke="#A78BFA" stroke-opacity="0.6" stroke-dasharray="4 5"/>
+<circle cx="680" cy="462" r="5" fill="#A78BFA"/>
+<text x="700" y="456" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-weight="700" font-size="24" fill="#EDE9FE">Interfaces</text>
+<text x="700" y="482" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#A5B4FC">HTML5 · CSS3 · JS (ES6+) · React · Vue · Angular · Next · Nuxt</text><g><animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" dur="4s" begin="0.8s" repeatCount="indefinite"/>
+<polygon points="100,336 330,402 330,428 100,362" fill="#0284C7"/>
+<polygon points="330,402 560,336 560,362 330,428" fill="#075985"/>
+<polygon points="330,270 560,336 330,402 100,336" fill="#BAE6FD" fill-opacity="1"/>
+<polygon points="330,284 532,336 330,388 128,336" fill="none" stroke="#ffffff" stroke-opacity="0.35"/></g>
+<line x1="570" y1="344" x2="680" y2="344" stroke="#38BDF8" stroke-opacity="0.6" stroke-dasharray="4 5"/>
+<circle cx="680" cy="344" r="5" fill="#38BDF8"/>
+<text x="700" y="338" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-weight="700" font-size="24" fill="#EDE9FE">APIs</text>
+<text x="700" y="364" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#A5B4FC">Node.js · NestJS · REST</text><g><animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="4s" begin="0.4s" repeatCount="indefinite"/>
+<polygon points="100,218 330,284 330,310 100,244" fill="#4F46E5"/>
+<polygon points="330,284 560,218 560,244 330,310" fill="#3730A3"/>
+<polygon points="330,152 560,218 330,284 100,218" fill="#C7D2FE" fill-opacity="1"/>
+<polygon points="330,166 532,218 330,270 128,218" fill="none" stroke="#ffffff" stroke-opacity="0.35"/></g>
+<line x1="570" y1="226" x2="680" y2="226" stroke="#818CF8" stroke-opacity="0.6" stroke-dasharray="4 5"/>
+<circle cx="680" cy="226" r="5" fill="#818CF8"/>
+<text x="700" y="220" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-weight="700" font-size="24" fill="#EDE9FE">Data</text>
+<text x="700" y="246" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#A5B4FC">MongoDB · PostgreSQL</text><g><animateTransform attributeName="transform" type="translate" values="0 0;0 -8;0 0" dur="4s" begin="0.0s" repeatCount="indefinite"/>
+<polygon points="100,100 330,166 330,192 100,126" fill="#DB2777"/>
+<polygon points="330,166 560,100 560,126 330,192" fill="#9D174D"/>
+<polygon points="330,34 560,100 330,166 100,100" fill="#FBCFE8" fill-opacity="1"/>
+<polygon points="330,48 532,100 330,152 128,100" fill="none" stroke="#ffffff" stroke-opacity="0.35"/></g>
+<line x1="570" y1="108" x2="680" y2="108" stroke="#F472B6" stroke-opacity="0.6" stroke-dasharray="4 5"/>
+<circle cx="680" cy="108" r="5" fill="#F472B6"/>
+<text x="700" y="102" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-weight="700" font-size="24" fill="#EDE9FE">AI &amp; Logic</text>
+<text x="700" y="128" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#A5B4FC">Python · OOP · Algorithms</text>
+</svg>
